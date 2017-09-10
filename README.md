@@ -11,14 +11,20 @@ Baiyu's Instagram
 Register using email address and set password.
 
 
+
+
 ![Sign-in](https://github.com/baiyuli/BaiyusInstagram/blob/master/Sign-in.png)
 
 Sign-in using registered email address and user-set password.
 
 
-![New Post](/Users/baiyu/Desktop/instagram_app/New Post.png)
+
+
+![New Post](https://github.com/baiyuli/BaiyusInstagram/blob/master/Sign-in.png)
 
 Create a new post by uploading a picture and writing a description.
+
+
 
 
 ![Feed](/Users/baiyu/Desktop/instagram_app/Feed.png)
