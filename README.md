@@ -6,22 +6,24 @@ Baiyu's Instagram
 
 * Features *
 
-/Users/baiyu/Desktop/instagram_app/Register.png
+![Register](/Users/baiyu/Desktop/instagram_app/Register.png)
 
 Register using email address and set password.
 
 
-/Users/baiyu/Desktop/instagram_app/Sign-in.png
+![Sign-in](/Users/baiyu/Desktop/instagram_app/Sign-in.png)
 
 Sign-in using registered email address and user-set password.
 
 
-/Users/baiyu/Desktop/instagram_app/New Post.png
+![New Post](/Users/baiyu/Desktop/instagram_app/New Post.png)
 
 Create a new post by uploading a picture and writing a description.
 
 
-/Users/baiyu/Desktop/instagram_app/Feed.png
+![Feed](/Users/baiyu/Desktop/instagram_app/Feed.png)
 
 The feed where all posts are displayed.
+
+
 
