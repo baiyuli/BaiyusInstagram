@@ -11,7 +11,7 @@ Baiyu's Instagram
 Register using email address and set password.
 
 
-![Sign-in](/Users/baiyu/Desktop/instagram_app/Sign-in.png)
+![Sign-in](https://github.com/baiyuli/BaiyusInstagram/blob/master/Sign-in.png)
 
 Sign-in using registered email address and user-set password.
 
