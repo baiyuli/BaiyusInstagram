@@ -6,7 +6,7 @@ Baiyu's Instagram
 
 * Features *
 
-![Register](/Users/baiyu/Desktop/instagram_app/Register.png)
+![Register](https://github.com/baiyuli/BaiyusInstagram/blob/master/Register.png)
 
 Register using email address and set password.
 
