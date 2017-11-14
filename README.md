@@ -1,7 +1,6 @@
 Baiyu's Instagram
 
 - An Instagram-inspired photo hosting site
-- Made using Instagram-like site tutorial from the Beginner Programmers YouTube channel
 - Ruby 2.4.0
 
 * Features *
